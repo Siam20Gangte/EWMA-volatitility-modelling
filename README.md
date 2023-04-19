@@ -3,9 +3,7 @@ Time Series Analysis of TSLA Stock, the simplest way possible
 
 This repository contains a Python script for analyzing the volatility of TSLA stock using time series analysis. The script uses the Exponentially Weighted Moving Average (EWMA) method to estimate the volatility of the stock.
 
-Installation
 
-To use this script, you will need to have Python installed on your machine. You will also need to have the pandas and numpy libraries installed. If you don't have these libraries installed, you can install them using the following commands:
 
 
 pip install pandas
