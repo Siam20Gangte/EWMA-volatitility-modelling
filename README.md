@@ -1,7 +1,7 @@
 # EWMA-volatitility-modelling
 # Time Series Analysis of NIFTY index. 
 
-The simplest way possible to predict volatility for t+1 using EWMA. Prerequisite knowledge is volatility/ standard deviation formula. Trust me, understanding std.dev formula and being able to calculate it mechanically goes a long way in quant finance. Out of which branches out even more complex models like ARCH, GARCH
+The simplest way possible to predict volatility for t+1 using EWMA. Prerequisite knowledge is volatility/ standard deviation formula. Trust me, understanding std.dev formula and being able to calculate it mechanically goes a long way in quant finance. Out of which branches out even more complex models like ARCH, GARCH and what not
 
 This repository contains a Python script for analyzing the volatility of TSLA stock using time series analysis. The script uses the Exponentially Weighted Moving Average (EWMA) method to estimate the volatility of the stock.
 
