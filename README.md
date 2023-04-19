@@ -1,9 +1,12 @@
 # EWMA-volatitility-modelling
-Time Series Analysis of TSLA Stock, the simplest way possible
+Time Series Analysis of TSLA Stock, the simplest way possible. Prerequisite knowledge is volatility/ standard deviation formula. Trust me, understanding std.dev formula and being able to calculate it mechanically goes a long way in quant finance. Out of which branches out even more complex models like ARCH, GARCH
 
 This repository contains a Python script for analyzing the volatility of TSLA stock using time series analysis. The script uses the Exponentially Weighted Moving Average (EWMA) method to estimate the volatility of the stock.
 
 
+Installation
+
+To use this script, you will need to have Python installed on your machine. You will also need to have the pandas and numpy libraries installed. If you don't have these libraries installed, you can install them using the following commands:
 
 
 pip install pandas
